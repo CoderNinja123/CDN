@@ -1,5 +1,3 @@
-// alert("BEEP. This website is STILL IN DEVELOPMENT. PLEASE DO REPORT ANY ERRORS AS AN ISSUE IN THE GITHUB REPOSITORY. Thanks!")
-
 import bootstrap from 'https://cdn.skypack.dev/bootstrap';
 import tippy from "https://cdn.skypack.dev/tippy.js";
 
